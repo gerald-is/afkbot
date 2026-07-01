@@ -272,4 +272,5 @@ This bot is intended for use on servers where you have permission to run automat
 
 Built with [Mineflayer](https://github.com/PrismarineJS/mineflayer) · Made with ❤️
 
-</div>
+</div>#   M i n e c r a f t - a f k - b o t - v 2  
+ 
