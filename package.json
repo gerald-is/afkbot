@@ -1,0 +1,25 @@
+{
+  "name": "advanced-afk-bot",
+  "version": "2.0.0",
+  "description": "An advanced, interactive Minecraft AFK bot built with Mineflayer — pathfinding, anti-AFK, chat commands, auto auth, and a live status server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["minecraft", "mineflayer", "afk-bot", "bot"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^4.37.0",
+    "mineflayer-pathfinder": "^2.4.5",
+    "mineflayer-auto-eat": "^3.3.6",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

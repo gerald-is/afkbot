@@ -1,0 +1,50 @@
+{
+  "server": {
+    "host": "ip_of_your_smp_server", 
+    "port": 42422,
+    "version": "1.21.4"
+  },
+  "bot": {
+    "username": "aurora_assistant",
+    "auth": "offline",
+    "password": ""
+  },
+  "auth": {
+    "autoRegister": true,
+    "autoLogin": true,
+    "registerLoginPassword": "Bot@12345",
+    "autoAcceptTeleport": true
+  },
+  "antiAfk": {
+    "enabled": true,
+    "randomMovement": true,
+    "randomLook": true,
+    "jump": true,
+    "swimIfInWater": true,
+    "minIntervalMs": 4000,
+    "maxIntervalMs": 12000
+  },
+  "autoEat": {
+    "enabled": true,
+    "startAt": 18
+  },
+  "chat": {
+    "commandPrefix": "!",
+    "respondToGreetings": true,
+    "announceOnSpawn": true,
+    "ownerName": ""
+  },
+  "reconnect": {
+    "enabled": true,
+    "delayMs": 5000,
+    "maxDelayMs": 60000
+  },
+  "statusServer": {
+    "enabled": true,
+    "port": 8080
+  },
+  "logging": {
+    "logChatToConsole": true,
+    "logTimestamp": true
+  }
+}
