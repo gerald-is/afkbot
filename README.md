@@ -1,8 +1,8 @@
 <div align="center">
 
-# hi this is my teritory
+# HELLO
 
-**get out**
+# GET OUT NOW
 
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![Mineflayer](https://img.shields.io/badge/Mineflayer-4.37%2B-ff6b35?style=for-the-badge)](https://github.com/PrismarineJS/mineflayer)
