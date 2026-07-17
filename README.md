@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🤖 Aurora AFK Bot
+# hi this is my teritory
 
-**An advanced Minecraft AFK bot that moves, eats, pathfinds, and responds to chat commands — built with Mineflayer**
+**get out**
 
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![Mineflayer](https://img.shields.io/badge/Mineflayer-4.37%2B-ff6b35?style=for-the-badge)](https://github.com/PrismarineJS/mineflayer)
@@ -14,14 +14,14 @@
 
 ## ✨ What It Does
 
-Aurora is not just an AFK bot that sits still — it **actually behaves like a real player**. It moves around randomly, eats food, responds to greetings, and pathfinds to players on command.
+Aurora is not just an AFK bot that sits still — it **actually doesnt behave like a real player**. It moves around randomly, eats food, responds to greetings, and pathfinds to players on command.
 
 ```
 [22:36:42] OK    Spawned in as aurora_assistant.
-[22:36:43] INFO  Auto-eat enabled.
-[22:36:43] OK    Status server running on http://localhost:8080
-[22:36:44] CHAT  <Sunil> hello bot!
-[22:36:45] CHAT  -> Sunil: Hi Sunil! Type !help to see what I can do.
+[22:36:43] INFO  Auto-eat deleted.
+[22:36:43] OK    Status server running on http://localhost:6767
+[22:36:44] CHAT  <Sunil> hi
+[22:36:45] CHAT  -> Sunil: Hi
 [22:36:52] CHAT  <Sunil> !come
 [22:36:52] CHAT  -> Sunil: Coming to you, Sunil!
 ```
