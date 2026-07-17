@@ -2,7 +2,7 @@
 
 # HELLO
 
-# GET OUT NOW
+**hiiii if your seeing this you can see my server in the config json**
 
 [![Node](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js&logoColor=red)]()
 [![Mineflayer](https://img.shields.io/badge/Mineflayer-4.37%2B-ff6b35?style=for-the-badge)](https://github.com/PrismarineJS/mineflayer)
@@ -12,18 +12,14 @@
 
 ---
 
-## ✨ What It Does
+# 
 
 Aurora is not just an AFK bot that sits still — it **actually doesnt behave like a real player**. It moves around randomly, eats food, responds to greetings, and pathfinds to players on command.
 
 ```
-[22:36:42] OK    Spawned in as aurora_assistant.
-[22:36:43] INFO  Auto-eat deleted.
-[22:36:43] OK    Status server running on http://localhost:6767
-[22:36:44] CHAT  <Sunil> hi
-[22:36:45] CHAT  -> Sunil: Hi
-[22:36:52] CHAT  <Sunil> !come
-[22:36:52] CHAT  -> Sunil: Coming to you, Sunil!
+[WHAT]>hi
+[JustABot]>hi
+
 ```
 
 ---
@@ -32,7 +28,7 @@ Aurora is not just an AFK bot that sits still — it **actually doesnt behave li
 
 | Feature | Description |
 |---|---|
-| 🏃 **Anti-AFK Movement** | Random walking, looking around, jumping, treading water — looks like a real player |
+| 🏃 **Anti-AFK Movement** | Random walking, looking around, jumping, treading water — looks like a fake player |
 | 🗺️ **Pathfinding** | `!come`, `!goto x y z`, `!follow` — bot physically walks to locations |
 | 🍖 **Auto-Eat** | Automatically eats when hunger drops below a threshold |
 | 🔐 **Auto Auth** | Handles `/register` and `/login` on AuthMe-style servers |
